@@ -20,7 +20,7 @@ const WhyUs = () => {
           At our car rental company, we prioritize customer satisfaction,
           providing a seamless and convenient experience from start to finish.
           With our extensive fleet of well-maintained vehicles, competitive
-          prices, and exceptional service, we ensure that every customer's needs
+          prices, and exceptional service, we ensure that every customers needs
           are met and exceeded.
         </p>
       </div>

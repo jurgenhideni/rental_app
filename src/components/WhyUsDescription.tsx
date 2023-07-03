@@ -59,7 +59,7 @@ const WhyUsDescription = () => {
             <h3 className='font-bold text-lg my-2'>Free Cancellation</h3>
 
             <p>
-              We understand that plans can change unexpectedly. That's why we
+              We understand that plans can change unexpectedly. Thats why we
               offer free cancellation on your reservation up to a certain period
               before your scheduled pick-up time
             </p>
